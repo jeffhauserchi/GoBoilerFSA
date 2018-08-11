@@ -19,3 +19,5 @@ evaluated:  iris-included ws api, https://github.com/googollee/go-socket.io
 selected:  evaluation continuing, go-socket.io is able to establish connection but not matching up with js socket.io
 in boilermaker.
 
+for passport:
+pending
